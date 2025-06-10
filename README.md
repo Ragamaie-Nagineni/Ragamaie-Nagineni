@@ -43,7 +43,7 @@ Evaluated performance using MSE; gained hands-on experience in `pandas`, `matplo
 - **Data Science:** Data Analytics, Statistical Analysis, Visualization  
 - **Languages:** Python, C  
 - **Web Development:**  
-  – Frontend: HTML, CSS, JavaScript  
+  – Frontend: HTML, CSS, JavaScript ,ejs(embeded javascript)
   – Backend: Node.js, Express  
 - **Tools & Libraries:** Git, GitHub, Scikit-learn, Pandas, Matplotlib, VS Code
 
