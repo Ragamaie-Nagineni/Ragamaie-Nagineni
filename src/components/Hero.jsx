@@ -6,7 +6,14 @@ export default function Hero() {
       <p>Computer Science Undergraduate | Web Developer | ML Enthusiast</p>
       <div>
         <a href="#projects" className="btn">View Projects</a>
-        <a href="/resume.pdf" target="_blank" className="btn">Download Resume</a>
+         <a 
+                href="https://ragamaie-nagineni.github.io/Ragamaie-Nagineni-Portfolio/resume.pdf" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                download="Ragamaie_Resume.pdf"
+            >
+                Download My Resume (PDF)
+            </a>
       </div>
     </section>
   );
