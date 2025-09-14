@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ragamaie Nagineni
+<!--# 👋 Hi, I'm Ragamaie Nagineni
 
 🎓 I'm a B.Tech student in **Computer Science and Engineering** at the **Indian Institute of Information Technology, Sri City**.  
 🔍 Actively seeking **internship opportunities** in **data science**, **software development**, or **full stack web development**.  
@@ -58,4 +58,4 @@ Evaluated performance using MSE; gained hands-on experience in `pandas`, `matplo
 
 ---
 
-> *“ ”*
+> *“ ”* -->
