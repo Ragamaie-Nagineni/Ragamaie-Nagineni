@@ -8,7 +8,6 @@ export default function Hero() {
         <a href="#projects" className="btn">View Projects</a>
          <a 
                 href="https://ragamaie-nagineni.github.io/Ragamaie-Nagineni-Portfolio/resume.pdf" 
-                target="_blank" 
                 rel="noopener noreferrer"
                 download="Ragamaie_Resume.pdf"
             >
