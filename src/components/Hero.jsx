@@ -10,6 +10,7 @@ export default function Hero() {
                 href="https://ragamaie-nagineni.github.io/Ragamaie-Nagineni-Portfolio/resume.pdf" 
                 rel="noopener noreferrer"
                 download="Ragamaie_Resume.pdf"
+                className="btn"
             >
                 Download My Resume (PDF)
             </a>
